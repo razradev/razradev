@@ -1,5 +1,6 @@
-# I'm Matthew
-### A high school programmer
+# I'm **Matthew**
+
+### About *me*
 
 - I'm working on **<a href="https://tsaweb.org" target="_blank" rel="noreferrer"><img src="https://tsaweb.org/ResourcePackages/Bootstrap5/assets/dist/img/TSA_logo.png" height="12"></a> Events (Video Game Design, Virtual Reality Simulation, and Website Design)**
 
@@ -9,7 +10,7 @@
 
 - My <a href="https://tsaweb.org" target="_blank" rel="noreferrer"><img src="https://tsaweb.org/ResourcePackages/Bootstrap5/assets/dist/img/TSA_logo.png" height="12"></a> projects are available at **[github.com/s023322](https://github.com/s023322)**
 
-- My other projects are available at **[razradev.com](https://razradev.com)**
+- My other projects are available here and at **[razradev.com](https://razradev.com)**
 
 - See my resume at **[razradev.com/resume](https://razradev.com/resume)**
 
