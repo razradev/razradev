@@ -10,9 +10,9 @@
 
 - My <a href="https://tsaweb.org" target="_blank" rel="noreferrer"><img src="https://tsaweb.org/ResourcePackages/Bootstrap5/assets/dist/img/TSA_logo.png" height="12"></a> projects are available at **[github.com/s023322](https://github.com/s023322)**
 
-- My other projects are available here and at **[razra.dev](https://razra.dev)**
+- My other projects are available here <!-- and at **[razra.dev](https://razra.dev)** -->
 
-- See my resume at **[razra.dev/resume](https://razra.dev/resume)**
+<!-- - See my resume at **[razra.dev/resume](https://razra.dev/resume)** -->
 
 <h3 align="left">My Favorite Languages, Tools, and Frameworks:</h3>
 <p align="left">
