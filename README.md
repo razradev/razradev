@@ -1,18 +1,12 @@
 # I'm **Matthew**
 
-### About *me*
+### About me
 
 - I'm working on **<a href="https://tsaweb.org" target="_blank" rel="noreferrer"><img src="https://tsaweb.org/ResourcePackages/Bootstrap5/assets/dist/img/TSA_logo.png" height="12"></a> Events (Video Game Design, Virtual Reality Simulation, and Website Design)**
 
-- I'm relearning Java in **AP CSA**
-
-- Email me at **razra@razra.dev**
-
 - My <a href="https://tsaweb.org" target="_blank" rel="noreferrer"><img src="https://tsaweb.org/ResourcePackages/Bootstrap5/assets/dist/img/TSA_logo.png" height="12"></a> projects are available at **[github.com/s023322](https://github.com/s023322)**
 
-- My other projects are available here <!-- and at **[razra.dev](https://razra.dev)** -->
-
-<!-- - See my resume at **[razra.dev/resume](https://razra.dev/resume)** -->
+- Email me at **razra@razra.dev**
 
 <h3 align="left">My Favorite Languages, Tools, and Frameworks:</h3>
 <p align="left">
@@ -20,7 +14,6 @@
   <a href="https://godotengine.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=godot" alt="godot" width="40" height="40"/> </a>
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40"/> </a>
   <a href="https://unity.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a>
-  <a href="https://visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=visualstudio" alt="visualstudio" width="40" height="40"/> </a>
   <br />
   <a href="https://bun.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bun" alt="bun" width="40" height="40"/> </a>
   <a href="https://solidjs.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=solidjs" alt="solidjs" width="40" height="40"/> </a>
